@@ -1,6 +1,30 @@
 # MLOps reading and watching resources.
 
 
+
+## MLOps Technologies
+Link | Page | Comments |
+--- | --- | --- |
+[Kubernetes](https://kubernetes.io/) | [https://kubernetes.io/](https://kubernetes.io/) | Production-Grade Container Orchestration |
+[KEDA](https://keda.sh/) | [https://keda.sh/](https://keda.sh/) | Kubernetes Event-driven Autoscaling |
+[kOps](https://github.com/kubernetes/kops) | [https://github.com/kubernetes/kops](https://github.com/kubernetes/kops) | Kubernetes Operations |
+[Kustomize](https://kustomize.io/) | [https://kustomize.io/](https://kustomize.io/) | Kubernetes Native Configuration Management |
+[Skaffold](https://skaffold.dev/) | [https://skaffold.dev/](https://skaffold.dev/) | Local Kubernetes Development |
+[Helm](https://helm.sh/) | [https://helm.sh/](https://helm.sh/) | The Package Manager for Kubernetes |
+[Prometheus](https://prometheus.io/) | [https://prometheus.io/](https://prometheus.io/) | Monitoring and Alerting Toolkit |
+[Grafana](https://grafana.com/) | [https://grafana.com/](https://grafana.com/) | Query, Visualize, Alert On And Understand Your Metrics |
+[Terraform](https://www.terraform.io/) | [https://www.terraform.io/](https://www.terraform.io/) | Automate Infrastructure on Any Cloud | 
+[RabbitMQ](https://www.rabbitmq.com/) | [https://www.rabbitmq.com/](https://www.rabbitmq.com/) | Message Broker |
+[Metabase](https://www.metabase.com/) | [https://www.metabase.com/](https://www.metabase.com/) | Client Dashboarding |
+[W&B](https://wandb.ai/) | [https://wandb.ai/](https://wandb.ai/) | Experiment Tracking, Dataset Versioning, and Model Management | 
+[MLFlow](https://mlflow.org/) | [https://mlflow.org/](https://mlflow.org/) | An open source platform for the ML lifecycle |
+[Ray](https://github.com/ray-project/ray) | [https://github.com/ray-project/ray](https://github.com/ray-project/ray) | Unified Framework for Scaling AI and Python Applications |
+[Jenkins](https://www.jenkins.io/) | [https://www.jenkins.io/](https://www.jenkins.io/) | Automation Server to Support Building, Deploying and Automating Any Project.|
+[GitHub Actions](https://github.com/features/actions) | [https://github.com/features/actions](https://github.com/features/actions) | Automate Software Workflow with CI/CD |
+[DVC](https://dvc.org/) | [https://dvc.org/](https://dvc.org/) | Version Control System for ML Projects |
+[Pre-commit](https://pre-commit.com/) | [https://pre-commit.com/](https://pre-commit.com/) | Managing and Maintaining Multi-Language Pre-commit Hooks. |
+
+
 ## MLOps Reading 
 Link | Source | Comments |
 --- | --- | --- |
