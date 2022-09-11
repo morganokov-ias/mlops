@@ -1,8 +1,8 @@
 # MLOps reading and watching resources.
 
+<details><summary><b>MLOps Technologies</b></summary>
+<p>
 
-
-## MLOps Technologies
 Link | Page | Comments |
 --- | --- | --- |
 [Kubernetes](https://kubernetes.io/) | [https://kubernetes.io/](https://kubernetes.io/) | Production-Grade Container Orchestration |
@@ -24,8 +24,13 @@ Link | Page | Comments |
 [DVC](https://dvc.org/) | [https://dvc.org/](https://dvc.org/) | Version Control System for ML Projects |
 [Pre-commit](https://pre-commit.com/) | [https://pre-commit.com/](https://pre-commit.com/) | Managing and Maintaining Multi-Language Pre-commit Hooks. |
 
+</p>
+</details>
 
-## MLOps Reading 
+
+<details><summary><b>MLOps Reading</b></summary>
+<p>
+
 Link | Source | Comments |
 --- | --- | --- |
 [MLOps: Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) | arXiv | |
@@ -43,9 +48,20 @@ Link | Source | Comments |
 [MLOps: Continuous delivery and automation pipelines in ML](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) | cloud.google.com | |
 [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | kubernetes.io | | 
 [Orchestrating ML workflows with Airflow](https://www.productboard.com/blog/orchestrating-ml-workflows-with-airflow/) | productboard.com | |
-[How to Autoscale Kubernetes Pods Based on GPU](https://www.private-ai.com/2022/05/31/how-to-autoscale-kubernetes-pods-based-on-gpu/) | private-ai.com | |
+[How to Autoscale Kubernetes Pods Based on GPU](https://www.private-ai.com/2022/05/31/how-to-autoscale-kubernetes-pods-based-on-gpu/) | private-ai.com |
+  |
+  
+</p>
+</details>
 
-## MLOps Watching
+  
+
+<details><summary><b>MLOps Watching</b></summary>
+<p>
+
 Link | Source | Comments |
 --- | --- | --- |
 [A Chat with Andrew Ng on MLOps: From Model-centric to Data-centric AI](https://youtu.be/06-AZXmwHjo) | YouTube |  Andrew Ng's MLOps |
+  
+</p>
+</details>
