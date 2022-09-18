@@ -1,4 +1,4 @@
-# MLOps reading and watching resources.
+# MLOps resources.
 
 <details><summary><b>MLOps Technologies</b></summary>
 <p>
