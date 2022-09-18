@@ -1,4 +1,4 @@
-# MLOps resources.
+# MLOps Resources.
 
 <details><summary><b>MLOps Technologies</b></summary>
 <p>
@@ -65,3 +65,14 @@ Link | Source | Comments |
   
 </p>
 </details>
+
+<details><summary><b>MLOps Usefuls</b></summary>
+<p>
+
+Link | Comments |
+--- | --- |
+[List of Coding Best Practices Resources](https://github.com/kabartay/mlops/blob/main/code_best_practices.md) | Internal file |
+  
+</p>
+</details>
+
