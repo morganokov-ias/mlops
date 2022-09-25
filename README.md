@@ -66,7 +66,7 @@ Link | Source | Comments |
 </p>
 </details>
 
-<details><summary><b>MLOps Usefuls</b></summary>
+<details><summary><b>MLOps Coding Usefuls</b></summary>
 <p>
 
 Link | Comments |
