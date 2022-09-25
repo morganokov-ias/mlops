@@ -16,6 +16,7 @@ Link | Comments |
 [PEP 258 – Docutils Design Specification](https://peps.python.org/pep-0258/)     | Design issues and implementation details for Docutils.               |
 [PEP 484 – Type Hints](https://peps.python.org/pep-0484/)                        | Annotations.                                                         |
 [typing — Support for type hints](https://docs.python.org/3/library/typing.html) | Annotations.                                                         |
+[Pylinit documentation](https://pylint.pycqa.org/en/latest/index.html)           | Contains latest Pylint documentation.                                |
   
 </p>
 </details>
