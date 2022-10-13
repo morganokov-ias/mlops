@@ -35,19 +35,19 @@ Link | Comments |
 Link | Source | Comments |
 --- | --- | --- |
 [MLOps: Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) | arXiv | |
-[Demystifying MLOps: Selection of Open-Source Tools](https://doi.org/10.3390/app11198861)) | MDPI | Good schemas |
-[MLOps Guide](https://mlops-guide.github.io/) | mlops-guide.github.io | |
+[Demystifying MLOps: Selection of Open-Source Tools](https://doi.org/10.3390/app11198861)) | MDPI | Schemas |
+[MLOps Guide](https://mlops-guide.github.io/) | mlops-guide | |
 [ApplyingML: Curated papers, articles, and blogs on ML in production](https://applyingml.com/papers/) | applyingml.com | |
-[Monitoring ML Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/) | christophergs.com |  Andrew Ng's MLOps |
+[Monitoring ML Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/) | christophergs.com |  Andrew Ng |
 [MLOps Problems and Best Practices](https://neptune.ai/blog/mlops-problems-and-best-practices) | neptune.ai | |
-[ML Experiment Tracking](https://neptune.ai/blog/ml-experiment-tracking) | neptune.ai | Andrew Ng's MLOps |
+[ML Experiment Tracking](https://neptune.ai/blog/ml-experiment-tracking) | neptune.ai | Andrew Ng |
 [How to Set Up CI for ML with Github Actions and Neptune](https://neptune.ai/blog/continuous-integration-for-machine-learning-with-github-actions-and-neptune) | neptune.ai | Guide |
 [The Best MLOps Tools and How to Evaluate Them](https://neptune.ai/blog/best-mlops-tools) | neptune.ai | |
-[ML in Production: Care About Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb) | Medium |  Andrew Ng's MLOps |
+[ML in Production: Care About Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb) | Medium |  Andrew Ng |
 [MLOps End-To-End ML Pipeline - CI/CD](https://medium.com/analytics-vidhya/mlops-end-to-end-machine-learning-pipeline-cicd-1a7907698a8e) | Medium | |
 [Understanding Kubernetes HPA with KEDA and RabbitMQ](https://medium.com/geekculture/understanding-kubernetes-hpa-with-keda-and-rabbitmq-4bf87216606b) | Medium | |
 [A Simple MLOps Pipeline on Your Local Machine](https://towardsdatascience.com/a-simple-mlops-pipeline-on-your-local-machine-db9326addf31) | Medium | |
-[Responsible ML with Error Analysis: ErrorAnalysis.ai](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/responsible-machine-learning-with-error-analysis/ba-p/2141774) | microsoft.com |  Andrew Ng's MLOps |
+[Responsible ML with Error Analysis: ErrorAnalysis.ai](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/responsible-machine-learning-with-error-analysis/ba-p/2141774) | microsoft.com |  Andrew Ng |
 [MLOps: Continuous delivery and automation pipelines in ML](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) | cloud.google.com | |
 [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | kubernetes.io | | 
 [Orchestrating ML workflows with Airflow](https://www.productboard.com/blog/orchestrating-ml-workflows-with-airflow/) | productboard.com | |
@@ -64,7 +64,7 @@ Link | Source | Comments |
 
 Link | Source | Comments |
 --- | --- | --- |
-[A Chat with Andrew Ng on MLOps: From Model-centric to Data-centric AI](https://youtu.be/06-AZXmwHjo) | YouTube |  Andrew Ng's MLOps |
+[A Chat with Andrew Ng on MLOps: From Model-centric to Data-centric AI](https://youtu.be/06-AZXmwHjo) | YouTube |  Andrew Ng |
   
 </p>
 </details>
