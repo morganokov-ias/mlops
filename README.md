@@ -35,7 +35,7 @@ Link | Comments |
 Link | Source | Comments |
 --- | --- | --- |
 [MLOps: Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) | arXiv | |
-[Demystifying MLOps: Recipe for the Selection of Open-Source Tools](https://doi.org/10.3390/app11198861)) | MDPI | Good schemas |
+[Demystifying MLOps: Selection of Open-Source Tools](https://doi.org/10.3390/app11198861)) | MDPI | Good schemas |
 [MLOps Guide](https://mlops-guide.github.io/) | mlops-guide.github.io | |
 [ApplyingML: Curated papers, articles, and blogs on ML in production](https://applyingml.com/papers/) | applyingml.com | |
 [Monitoring ML Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/) | christophergs.com |  Andrew Ng's MLOps |
