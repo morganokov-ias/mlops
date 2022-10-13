@@ -17,6 +17,9 @@ Link | Comments |
 [Terraform](https://www.terraform.io/)                 | Automate Infrastructure on Any Cloud                                         | 
 [RabbitMQ](https://www.rabbitmq.com/)                  | Message Broker                                                               |
 [Metabase](https://www.metabase.com/)                  | Client Dashboarding                                                          |
+[ElasticSearch](https://www.elastic.co/elasticsearch/) | Log management: ingest, analysis, and reporting                              |
+[Logstash](https://www.elastic.co/logstash/)           | Dynamically ingest, transform, and ship data                                 |
+[Kibana](https://www.elastic.co/kibana/)               | Visualization tool for [ELK](https://www.elastic.co/what-is/elk-stack)       |
 [W&B](https://wandb.ai/)                               | Experiment Tracking, Dataset Versioning, and Model Management                | 
 [MLFlow](https://mlflow.org/)                          | An open source platform for the ML lifecycle                                 |
 [Ray](https://github.com/ray-project/ray)              | Unified Framework for Scaling AI and Python Applications                     |
