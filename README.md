@@ -35,7 +35,9 @@ Link | Comments |
 Link | Source | Comments |
 --- | --- | --- |
 [MLOps: Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) | arXiv | |
+[Demystifying MLOps: Recipe for the Selection of Open-Source Tools](https://doi.org/10.3390/app11198861)) | MDPI | Good schemas |
 [MLOps Guide](https://mlops-guide.github.io/) | mlops-guide.github.io | |
+[ApplyingML: Curated papers, articles, and blogs on ML in production](https://applyingml.com/papers/) | applyingml.com | |
 [Monitoring ML Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/) | christophergs.com |  Andrew Ng's MLOps |
 [MLOps Problems and Best Practices](https://neptune.ai/blog/mlops-problems-and-best-practices) | neptune.ai | |
 [ML Experiment Tracking](https://neptune.ai/blog/ml-experiment-tracking) | neptune.ai | Andrew Ng's MLOps |
@@ -50,6 +52,7 @@ Link | Source | Comments |
 [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | kubernetes.io | | 
 [Orchestrating ML workflows with Airflow](https://www.productboard.com/blog/orchestrating-ml-workflows-with-airflow/) | productboard.com | |
 [How to Autoscale Kubernetes Pods Based on GPU](https://www.private-ai.com/2022/05/31/how-to-autoscale-kubernetes-pods-based-on-gpu/) | private-ai.com ||
+[DS x MLE Roles: How are they different? How are they alike?](https://building.nubank.com.br/data-scientist-machine-learning-engineer-roles-how-are-they-different-how-are-they-alike/) | NuBank | |
   
 </p>
 </details>
